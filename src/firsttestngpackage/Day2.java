@@ -9,6 +9,8 @@ public class Day2 {
 	public void demo()
 	{
 		System.out.println("good");
+		System.out.println("better");
+		System.out.println("best");
 	}
 	@BeforeTest
 	public void prerequisite()
