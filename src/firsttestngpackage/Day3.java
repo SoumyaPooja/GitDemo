@@ -26,5 +26,11 @@ public class Day3 {
 
 
 	}
+	@Test
+	public void loginAPIHomeLoan2430()
+	{
+		System.out.println("APIloginHome");
+		
+	}
 
 }
